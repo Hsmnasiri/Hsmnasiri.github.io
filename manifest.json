@@ -1,52 +1,52 @@
 {
-    "name": "Tidewater",
-    "short_name": "Tidewater",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
-    "orientation": "portrait-primary",
-    "icons": [
-        {
-            "src": "/eskini/logo72x72.png",
-            "type": "image/png",
-            "sizes": "72x72"
-        },
-        {
-            "src": "/eskini/logo96x96.png",
-            "type": "image/png",
-            "sizes": "96x96"
-        },
-        {
-            "src": "/eskini/logo128x128.png",
-            "type": "image/png",
-            "sizes": "128x128"
-        },
-        {
-            "src": "/eskini/logo144x144.png",
-            "type": "image/png",
-            "sizes": "144x144"
-        },
-        {
-            "src": "/eskini/logo152x152.png",
-            "type": "image/png",
-            "sizes": "152x152"
-        },
-        {
-            "src": "/eskini/logo192x192.png",
-            "type": "image/png",
-            "sizes": "192x192",
-            "purpose": "any maskable"
-        },
-        {
-            "src": "/eskini/logo384x384.png",
-            "type": "image/png",
-            "sizes": "384x384"
-        },
-        {
-            "src": "/eskini/logo512x512.png",
-            "type": "image/png",
-            "sizes": "512x512"
-        }
-    ]
+  "name": "Tidewater",
+  "short_name": "Tidewater",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/logo96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/logo128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/logo144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/logo152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/logo192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/logo512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
 }
